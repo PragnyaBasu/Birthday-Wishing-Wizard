@@ -2,10 +2,10 @@ import pandas as pd
 import datetime
 import smtplib
 import os
-os.chdir(r"D:\python birthday_wisher project")
+os.chdir(r"Your_relative_file_path")
 
 #Enter your authentication details
-GMAIL_ID = 'Your mail address'
+GMAIL_ID = 'Your_mail_address'
 GMAIL_PSWD = 'Password'
 
 def sendEmail(to, sub, msg):
