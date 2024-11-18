@@ -95,3 +95,7 @@ python birthday_wisher.py
 #### Cron/Task Scheduler Issues:
 * Check permissions or verify the Python environment used by the scheduler.
 ---
+
+## Author
+PRAGNYA BASU
+---
